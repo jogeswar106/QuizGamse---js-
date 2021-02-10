@@ -1,2 +1,2 @@
-# QuizGamse--codeChef
+# QuizGamse 
 Quiz Game using JS 
